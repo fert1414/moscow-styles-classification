@@ -5,5 +5,3 @@ numpy>=2.3
 torch>=2.8.0
 matplotlib>=3.10.6
 tqdm>=4.67.1
-PIL>=11.3.0
-shutil>=3.13.7
